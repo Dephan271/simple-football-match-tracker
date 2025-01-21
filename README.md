@@ -4,9 +4,7 @@ A simple web application for tracking football matches. This project is built us
 
 ## Features
 
-- **Match Management**: Add, update, delete, and view football matches.
 - **Database Integration**: Uses MongoDB with Mongoose for efficient data management.
-- **Scalable Architecture**: Suitable for leagues, tournaments, or personal match tracking.
 
 ## Installation
 
