@@ -12,7 +12,7 @@ A simple web application for tracking football matches. This project is built us
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/football-match-tracker.git](https://github.com/Dephan271/simple-football-match-tracker.git
+   git clone https://github.com/Dephan271/simple-football-match-tracker.git
    ```
 2. Navigate to the project directory:
    ```bash
